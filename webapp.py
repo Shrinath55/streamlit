@@ -1,4 +1,3 @@
-pip3 uninstall cv2
 
 import streamlit as st
 import cv2
