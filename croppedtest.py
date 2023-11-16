@@ -3,7 +3,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load your YOLO model
-model_path = '/Users/shrinathkhadake/Downloads/yolo-nas.pt'  # Update this path
+model_path = 'https://github.com/Shrinath55/streamlit/blob/main/yolo-nas.pt'  # Update this path
 model = YOLO(model_path)
 
 # Class name dictionary
